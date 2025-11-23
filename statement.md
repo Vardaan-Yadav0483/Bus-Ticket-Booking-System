@@ -15,11 +15,11 @@ The system will:
 4.  Allow for the **cancellation/deletion** of existing buses and reservations.
 5.  Persist data using local **CSV files** (`buses.csv` and `reservations.csv`).
 
-The project **will not** cover advanced features such as user authentication, payment processing, complex fare calculations, or a graphical user interface (GUI). [cite_start]It is limited to a command-line interface (CLI) application. [cite: 100]
+The project **will not** cover advanced features such as user authentication, payment processing, complex fare calculations, or a graphical user interface (GUI). [cite_start]It is limited to a command-line interface (CLI) application. 
 
 ## 🎯 Target Users
 
-[cite_start]The primary target users for this system are: [cite: 102]
+The primary target users for this system are: 
 
 * **Bus Operator/Administrator:** Individuals responsible for managing the fleet, adding new buses, and deleting retired ones.
 * **Reservation Desk Staff:** Personnel who handle customer bookings, seat reservations, and cancellations for specific bus routes.
@@ -27,7 +27,7 @@ The project **will not** cover advanced features such as user authentication, pa
 
 ## ✨ High-Level Features
 
-[cite_start]The Bus Booking System provides the following high-level capabilities: [cite: 103]
+The Bus Booking System provides the following high-level capabilities: 
 
 * **Bus Management:** Functions to add new buses with capacity and route information, and to remove existing bus records.
 * **Reservation Booking:** A core module that allows a user to reserve a specified number of seats on an available bus, with automatic capacity checking.
